@@ -23,11 +23,16 @@ As long as BeautifulSoup and Selenium are installed, the script should work fine
 3. All pressure data is reported as sea-level pressure. Depending on the weather station, it may be possible to back-calculate to absolute pressure; some manufacturers (e.g., Ambient Weather WS-2902) use a constant offset whereas others (e.g., Davis Vantage Pro2) perform a more complicated barometric pressure reduction using the station's 12-hr temperature and humidity history.
 
 ## Python dependencies 
-time
-pandas
-numpy
-selenium
-beautifulsoup4
+time  
+pandas  
+numpy  
+selenium  
+beautifulsoup4  
 
 ## Development
 Pull requests are welcome. Please let me know if you have suggestions for improvement.
+
+## Contact
+Zach Perzan  
+[zperzan@stanford.edu](mailto:zperzan@stanford.edu)  
+ORCiD [#0000-0003-2676-2452](https://orcid.org/0000-0003-2676-2452)  
